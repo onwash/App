@@ -1,0 +1,6 @@
+ 1
+ после регистрации преветственное окно
+ 2
+ вернуть клаву в аутинфикацию
+ https://medium.com/react-native-training/how-to-dismiss-keyboard-with-react-navigation-in-react-native-apps-4b987bbfdc48
+ 3
